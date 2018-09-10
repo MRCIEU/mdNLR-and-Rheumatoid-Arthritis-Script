@@ -1,0 +1,2 @@
+# mdNLR-and-Rheumatoid-Arthritis-Script
+Rheumatoid arthritis (RA) is a disease of chronic systemic inflammation (SI). In the present study, we used four datasets to explore whether methylation-derived neutrophil-to-lymphocyte ratio (mdNLR) might be a marker of SI in new onset, untreated, and treated prevalent RA cases and/or a marker of treatment response to the tumour necrosis factor inhibitor (TNFi) etanercept. 
